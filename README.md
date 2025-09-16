@@ -11,6 +11,6 @@ Telegram news channel:
 Telegram chat room:
 
 # Lectures, seminars and homeworks
-| #  | Date | Lecture / Seminar | Homework | Deadline |
-| -- | ---- | -------------- | -------- |
-| 1  | 2022-09-26 | Introduction to the topic | HW#1 | 2022-10-10 | Link |
+| #  | Date | Lecture / Seminar | Homework | Deadline | Link |
+| -- | ---- | -------------- | -------- | -------- |
+| 1  | 2022-09-26 | Introduction to the topic | HW#1 | 2022-10-10 | - |
